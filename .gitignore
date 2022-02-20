@@ -1,0 +1,6 @@
+#Игнорирование файлов
+/tmp/
+*_old
+*_backup
+Thumbs.db
+.DS_Store
